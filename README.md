@@ -119,4 +119,4 @@ Other exercises and minor projects are also available in my profile with self-de
 
 ---
 
-💼 [My LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/adrian-izquierdo-delgado-3562a9178/)) 
+💼 [My LinkedIn](https://www.linkedin.com/in/adrian-izquierdo-delgado/)) 
