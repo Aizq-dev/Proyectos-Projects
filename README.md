@@ -84,21 +84,21 @@ Simple CRUD with Node.js and Express. The database resets on each server start w
 
 ### 8. **API CRUD Mejorada (Desplegada en Vercel)**
 Versión mejorada con relaciones entre colecciones. Incluye endpoints para gestión completa de coches y marcas.  
-🔗 [Repositorio](https://github.com/usuario/api-mejorada)
+🔗 [Repositorio](https://github.com/Aizq-dev/Proyecto-2-Backend)
 
 ### 8. **Improved CRUD API (Deployed on Vercel)**
 Enhanced version with relations between collections. Includes endpoints to manage cars and brands.  
-🔗 [Repository](https://github.com/usuario/api-mejorada)
+🔗 [Repository](https://github.com/Aizq-dev/Proyecto-2-Backend)
 
 ---
 
 ### 9. **API Avanzada con Auth y Rate Limiter**
 Servidor Node/Express con autenticación JWT, protección con rate limiter, subida de imágenes a Cloudinary y endpoints protegidos.  
-🔗 [Repositorio](https://github.com/usuario/api-avanzada-auth)
+🔗 [Repositorio](https://github.com/Aizq-dev/Proyect-3-backend)
 
 ### 9. **Advanced API with Auth and Rate Limiter**
 Node/Express server with JWT authentication, rate limiter, image upload via Cloudinary, and protected endpoints.  
-🔗 [Repository](https://github.com/usuario/api-avanzada-auth)
+🔗 [Repository](https://github.com/Aizq-dev/Proyect-3-backend)
 
 ---
 
